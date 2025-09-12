@@ -1,5 +1,5 @@
 # Set  the minimum  required version  of cmake  for a  project.
-cmake_minimum_required(VERSION 2.8.12)
+cmake_minimum_required(VERSION 2.8.12...3.20)
 
 # Add an executable to the project using the specified source files.
 add_executable(tetgen tetgen.cxx predicates.cxx)
